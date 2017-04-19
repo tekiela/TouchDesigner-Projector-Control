@@ -59,3 +59,9 @@ On Message = `7E 30 30 30 30 20 31`<br>
 Off Message = `7E 30 30 30 30 20 32`<br>
 Picture Mute On = `7E 30 30 30 32 20 31`<br>
 Picture Mute Off = `7E 30 30 30 32 20 32`<br>
+
+## Troubleshooting
+If you find an issue, submit a pull request or post an issue on this repo. 
+
+## Attribution
+If you use this in one of your projects, feel free to give us (nVoid) a shoutout or just let us know what you're up to! 
