@@ -28,34 +28,34 @@ Operation is simple. Enter the command into the appropriate text box, and to tri
 ## Example setups
 
 ### NEC NP600S
-Baud Rate = 19200
-Data Bits = 8
-Stop Bits = 1
-Message Type = HEX
+Baud Rate = '''19200'''
+Data Bits = '''8'''
+Stop Bits = '''1'''
+Message Type = '''HEX'''
 
-On Message = 02 00 00 00 00 02
-Off Message = 02 01 00 00 00 03
-Picture Mute On = 02 10 00 00 00 12
-Picture Mute Off = 02 11 00 00 00 13
+On Message = '''02 00 00 00 00 02'''
+Off Message = '''02 01 00 00 00 03'''
+Picture Mute On = '''02 10 00 00 00 12'''
+Picture Mute Off = '''02 11 00 00 00 13'''
 
 ### BENQ MX819ST
-Baud Rate = 115200
-Data Bits = 8
-Stop Bits = 1
-Message Type = ASCII
+Baud Rate = '''115200'''
+Data Bits = '''8'''
+Stop Bits = '''1'''
+Message Type = '''ASCII'''
 
-On Message = <CR>*pow=on#<CR>
-Off Message = <CR>*pow=off#<CR>
-Picture Mute On = <CR>*blank=on#<CR>
-Picture Mute Off = <CR>*blank=off#<CR>
+On Message = '''<CR>*pow=on#<CR>'''
+Off Message = '''<CR>*pow=off#<CR>'''
+Picture Mute On = '''<CR>*blank=on#<CR>'''
+Picture Mute Off = '''<CR>*blank=off#<CR>'''
 
 ### OPTOMA DS550
-Baud Rate = 9600
-Data Bits = 8
-Stop Bits = 1
-Message Type = HEX
+Baud Rate = '''9600'''
+Data Bits = '''8'''
+Stop Bits = '''1'''
+Message Type = '''HEX'''
 
-On Message = 7E 30 30 30 30 20 31
-Off Message = 7E 30 30 30 30 20 32
-Picture Mute On = 7E 30 30 30 32 20 31
-Picture Mute Off = 7E 30 30 30 32 20 32
+On Message = '''7E 30 30 30 30 20 31'''
+Off Message = '''7E 30 30 30 30 20 32'''
+Picture Mute On = '''7E 30 30 30 32 20 31'''
+Picture Mute Off = '''7E 30 30 30 32 20 32'''
