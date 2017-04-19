@@ -28,17 +28,13 @@ Operation is simple. Enter the command into the appropriate text box, and to tri
 ## Example setups
 
 ### NEC NP600S
-Baud Rate = `19200`
+Baud Rate = `19200` 
+Data Bits = `8` 
+Stop Bits = `1` 
+Message Type = `HEX` 
 
-Data Bits = `8`
-
-Stop Bits = `1`
-
-Message Type = `HEX`
-
-
-On Message = `02 00 00 00 00 02`
-Off Message = `02 01 00 00 00 03`
+On Message = `02 00 00 00 00 02` 
+Off Message = `02 01 00 00 00 03` 
 Picture Mute On = `02 10 00 00 00 12`
 Picture Mute Off = `02 11 00 00 00 13`
 
