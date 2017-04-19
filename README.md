@@ -28,7 +28,7 @@ Operation is simple. Enter the command into the appropriate text box, and to tri
 ## Example setups
 
 ### NEC NP600S
-Baud Rate = `19200`
+Baud Rate = `19200`<n>
 Data Bits = `8`
 Stop Bits = `1`
 Message Type = `HEX` 
