@@ -6,7 +6,7 @@ TouchDesigner099 component that provides projector control via the RS-232 serial
 This tool was created on Windows, and is stable in 64-bit, build 5040.
 
 ## Installation
-Add the ```nVoid_Serial_Projector_Control.tox``` component anywhere in your project.
+Add the ```nVoid_TouchDesigner_Projector_Control.tox``` component anywhere in your project.
 
 ## Setup (Windows)
 - Make sure the computer and projector are turned off
