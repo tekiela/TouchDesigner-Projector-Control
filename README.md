@@ -63,10 +63,10 @@ Picture Mute Off = `7E 30 30 30 32 20 32`<br>
 ## Troubleshooting
 If you find an issue, submit a pull request or post an issue on this repo. 
 
-## Attribution
-If you use this in one of your projects, feel free to give us (nVoid) a shoutout or just let us know what you're up to! 
-
 ## User Setups
 Projector Brand and Model:<br>
 User Name:<br>
 Command:<br> 
+
+## Attribution
+If you use this in one of your projects, feel free to give us (nVoid) a shoutout or just let us know what you're up to! 
